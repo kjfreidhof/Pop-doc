@@ -24,11 +24,8 @@ read
 # copies all my configurations to my home directory and makes backups 
 cp ~/.bashrc ~/.bashrc.bak 
 
-cp -r ~/.config ~/.config.bak 
-
 cp .bashrc ~/
 
-cp -r .config ~/
 
 # gets all the themes i use and extracts them 
 mkdir -p ~/.themes 

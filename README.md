@@ -38,7 +38,6 @@ install git
 
 ```
 sudo apt install git 
-
 ```
 # How to run and use my script 
 
@@ -46,33 +45,28 @@ First  do
 
 ```
 git clone https://github.com/kjfreidhof/Pop-doc.git
-
 ```
 
 then do 
 
 ```
 chmod +x pop.sh
-
 ```
 then 
 
 ```
 sudo ./pop.sh
-
 ```
 
 then 
 
 ``` 
 chmod +x user.sh 
-
 ```
 # Finally! 
 
 ```
 ./user.sh
-
 ```
 # Then your done thanks for installing :)
 
