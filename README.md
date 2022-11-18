@@ -31,7 +31,6 @@ to install aria2
 
 ```
 sudo apt install aria2
-
 ```
 
 install git 
