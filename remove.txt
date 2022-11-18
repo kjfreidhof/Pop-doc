@@ -1,0 +1,13 @@
+gedit
+totem 
+libreoffice-common
+geary 
+yelp 
+libreoffice-writer 
+libreoffice-calc 
+libreoffice-impress 
+libreoffice-base-core 
+libreoffice-core 
+libreoffice-draw 
+libreoffice-math
+gnome-terminal
